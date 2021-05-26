@@ -1,3 +1,8 @@
+"""
+author: Tanmay Dutta
+Main file that will run the api.
+The api calcualtes the weight returned by a pagination API.
+"""
 from flask import Flask, jsonify
 from flask_cors import cross_origin
 from core import calculate_weight

@@ -1,4 +1,4 @@
-# kogan_test
+# kogan_test (Written by Tanmay)
  Tested on Mac OS X 
 # To run:
 1. If you have docker installed 
